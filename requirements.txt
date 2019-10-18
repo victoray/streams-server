@@ -1,0 +1,4 @@
+status
+flask
+sqlalchemy
+flask_cors
